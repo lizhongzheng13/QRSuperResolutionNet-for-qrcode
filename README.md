@@ -6,7 +6,7 @@
 
 This project aims to restore low-quality QR code images to high-quality ones using deep learning methods, improving their scanning recognition success rate. The model architecture integrates RRDB, SEBlock, and TransformerBlock, and is jointly optimized with perceptual loss and recognizability loss, achieving good experimental results.
 
-<img src="D:\Desk\论文\compare.png" alt="compare" style="zoom: 33%;" />
+<img src="https://lzz-1340752507.cos.ap-shanghai.myqcloud.com/lzz/compare.png" alt="compare" style="zoom:33%;" />
 
 <img src="https://lzz-1340752507.cos.ap-shanghai.myqcloud.com/lzz/image-20250518100429171.png" alt="image-20250518100429171" style="zoom:50%;" />
 

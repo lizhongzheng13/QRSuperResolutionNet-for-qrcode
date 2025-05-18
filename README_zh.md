@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="README_en.md">Switch to English</a>
+  <a href="README.md">Switch to English</a>
 </div>
 
 # QRSuperResolutionNet：用于二维码图像超分辨率的深度学习模型

@@ -5,7 +5,7 @@
 
 本项目旨在通过深度学习方法，将低质量二维码图像恢复为高质量图像，并提升其扫码识别成功率。模型结构融合了 RRDB、SEBlock 与 TransformerBlock，并采用感知损失与可识别性损失联合优化，取得了良好的实验效果。
 
-<img src="https://lzz-1340752507.cos.ap-shanghai.myqcloud.com/lzz/compare.png" style="zoom:33%;" />
+<img src="https://lzz-1340752507.cos.ap-shanghai.myqcloud.com/lzz/image-20250518103141659.png" alt="image-20250518103141659" style="zoom: 50%;" />
 
 <img src="https://lzz-1340752507.cos.ap-shanghai.myqcloud.com/lzz/image-20250518100429171.png" alt="image-20250518100429171" style="zoom:50%;" />
 
